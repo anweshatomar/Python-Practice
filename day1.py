@@ -1,6 +1,8 @@
 Link:https://leetcode.com/problems/two-sum/
 
 """
+List of Companies that asked the question in an interview: Amazon, Apple, Google, Adobe, Microsoft, Bloomberg, Uber, Oracle
+
 Day 1:
 
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
