@@ -1,6 +1,8 @@
-Link:
+Link:https://leetcode.com/problems/verifying-an-alien-dictionary/
 
 """
+Companies: Facebook, Walmart, Amazon, Apple
+
 Day 3-
 
 In an alien language, surprisingly they also use english lowercase letters, but possibly in a different order. The order of the alphabet is some permutation of lowercase letters.
